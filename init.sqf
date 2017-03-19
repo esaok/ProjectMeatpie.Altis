@@ -1,0 +1,1 @@
+mikkoMallikas setDamage 0.9;
